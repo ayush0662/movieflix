@@ -1,6 +1,6 @@
 /.idea
 /.vscode
-index.php
+/index.php
 /application/config/config.php
 /application/config/database.php
 
